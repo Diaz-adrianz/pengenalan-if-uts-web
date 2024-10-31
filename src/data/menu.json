@@ -1,0 +1,88 @@
+[
+  {
+    "label": "Apa itu CLI dan GUI?",
+    "children": [
+      {
+        "label": "CLI",
+        "page": "cli.md"
+      },
+      {
+        "label": "GUI",
+        "page": "gui.md"
+      }
+    ]
+  },
+  {
+    "label": "Apa itu sistem informasi?",
+    "page": "si.md"
+  },
+  {
+    "label": "Sebutkan apa saja bahasa pemrograman?",
+    "children": [
+      {
+        "label": "C++",
+        "page": "cpp.md"
+      },
+      {
+        "label": "C",
+        "page": "c.md"
+      },
+      {
+        "label": "C#",
+        "page": "csharp.md"
+      },
+      {
+        "label": "Java",
+        "page": "java.md"
+      },
+      {
+        "label": "Javascript",
+        "page": "javascript.md"
+      },
+      {
+        "label": "Python",
+        "page": "py.md"
+      },
+      {
+        "label": "Golang",
+        "page": "go.md"
+      },
+      {
+        "label": "Perl",
+        "page": "perl.md"
+      },
+      {
+        "label": "PHP",
+        "page": "php.md"
+      },
+      {
+        "label": "Dart",
+        "page": "dart.md"
+      },
+      {
+        "label": "Scala",
+        "page": "scala.md"
+      },
+      {
+        "label": "Rust",
+        "page": "rust.md"
+      },
+      {
+        "label": "Kotlin",
+        "page": "kotl.md"
+      },
+      {
+        "label": "Swift",
+        "page": "swift.md"
+      }
+    ]
+  },
+  {
+    "label": "Sebutkan dan jelaskan istilah-istilah keamanan komputer?",
+    "page": "keamanan-komp.md"
+  },
+  {
+    "label": "Sebutkan dan jelaskan istilah-istilah jaringan komputer?",
+    "page": "jaringan-komp.md"
+  }
+]
